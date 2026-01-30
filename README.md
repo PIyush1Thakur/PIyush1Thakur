@@ -3,7 +3,7 @@ Hi, I am a Software Engineer with experience in **Linux**, **Spring Boot**, **Ja
 ---
 
 ## Projects
-      https://travel-ieqw.onrender.com/
+      https://in-travel.onrender.com/
 ---
 
 ## 🌐 Socials:
