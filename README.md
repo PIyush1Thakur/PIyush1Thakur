@@ -7,7 +7,7 @@ Hi, I am a Software Engineer with experience in **Linux**, **Spring Boot**, **Ja
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-thakur-984b8a354)
+
 
 ---
 
