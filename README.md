@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am a Software Engineer with experience in **Linux**, **Spring Boot**, **Java**, and **Python**, building full-stack web applications and RESTful APIs backed by **MongoDB**. I am currently learning **Deep Learning**, with a focus on **Convolutional Neural Networks (CNNs)** using **Keras/TensorFlow**, aiming to integrate machine learning models into production-ready applications.
+Hi, I am a B.Tech Student with experience in **Linux**, **Spring Boot**, **Java**, and **Python**, building full-stack web applications and RESTful APIs backed by **MongoDB**. I am currently learning **Deep Learning**, with a focus on **Convolutional Neural Networks (CNNs)** using **Keras/TensorFlow**, aiming to integrate machine learning models into production-ready applications.
 ---
 
 ## Projects
